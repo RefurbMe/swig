@@ -1,4 +1,4 @@
-[1.4.2](https://github.com/paularmstrong/swig/tree/v1.4.2) / 2014-08-04
+[1.4.3](https://github.com/paularmstrong/swig/tree/v1.4.3) / 2014-08-04
 -----------------------------------------------------------------------
 
 * **Added** Report JS parse errors with template filenames. gh-492
